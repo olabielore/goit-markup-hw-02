@@ -33,11 +33,13 @@ li {
     color:  #2e2f42;
 }
 
-.menu-item:hover, .menu-item:focus {
+.menu-item:hover,
+.menu-item:focus {
     color: #404bbf;
 }
 
-.link:hover, .link:focus {
+.link:hover,
+.link:focus {
     color: #4D5AE5;
 }
 
@@ -45,7 +47,8 @@ li {
     font-style: normal;
 }
 
-.contact:hover, .contact:focus {
+.contact:hover,
+.contact:focus {
     color: #404BBF;
 }
 
