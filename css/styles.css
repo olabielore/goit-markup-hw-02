@@ -72,9 +72,10 @@ li {
 }
 
 .small-text, link {
+    color: #F4F4FD;
     font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 0.04em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .button, .medium-text {
@@ -141,4 +142,10 @@ li {
 
 .portfolio-item {
     color: #2e2f42;
+}
+.footer {
+    background-color: #2e2f42;
+}
+logo-studio-second {
+    color: #f4f4fd
 }
