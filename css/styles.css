@@ -1,0 +1,60 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul, 
+li {
+  list-style: none;
+}
+
+.header {
+}
+
+.button:hover, .button:focus {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.link:hover, .link:focus {
+    color: #4D5AE5;
+}
+
+.contact:hover, .contact:focus {
+    color: #404BBF;
+}
+
+.header1, title {
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.header2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.header3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.small-text, link {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.button, .medium-text {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+
+}
